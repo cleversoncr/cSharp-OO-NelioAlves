@@ -1,0 +1,15 @@
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/bin/Debug/net6.0/01_primeiro-projeto
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/bin/Debug/net6.0/01_primeiro-projeto.deps.json
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/bin/Debug/net6.0/01_primeiro-projeto.runtimeconfig.json
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/bin/Debug/net6.0/01_primeiro-projeto.dll
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/bin/Debug/net6.0/01_primeiro-projeto.pdb
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.csproj.AssemblyReference.cache
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.AssemblyInfoInputs.cache
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.AssemblyInfo.cs
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.csproj.CoreCompileInputs.cache
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.dll
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/refint/01_primeiro-projeto.dll
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.pdb
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/01_primeiro-projeto.genruntimeconfig.cache
+/home/cleverson.rocha/Workspace/cursos/cSharp-OO-NelioAlves/s02/01_primeiro-projeto/obj/Debug/net6.0/ref/01_primeiro-projeto.dll
